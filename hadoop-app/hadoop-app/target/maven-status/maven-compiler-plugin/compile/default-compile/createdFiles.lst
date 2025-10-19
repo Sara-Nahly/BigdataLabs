@@ -1,0 +1,4 @@
+edu\ensias\WriteHDFS.class
+edu\ensias\ReadHDFS.class
+edu\ensias\HadoopFileStatus.class
+edu\ensias\HDFSInfo.class
